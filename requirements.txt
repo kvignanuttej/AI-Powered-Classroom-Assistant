@@ -1,0 +1,13 @@
+openvino==2024.1.0
+openvino-dev==2024.1.0
+openvino-tokenizers==2024.1.0.0
+optimum==1.23.3
+optimum-intel==1.21.0
+transformers==4.38.2
+tokenizers==0.15.2
+nncf==2.13.0
+onnx==1.17.0
+onnxruntime==1.19.2
+streamlit==1.40.1
+numpy==1.24.4
+sentencepiece==0.2.0
