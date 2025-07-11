@@ -51,7 +51,21 @@ added_tokens.json
 
 ->In this process, the safetensors file gets converted to ONNX model which after gets converted to openvino format i.e, an XML and bin file of the models.
 
-->Run 
+->Run phi2_convert_to_onnx.py to convert the safetensors model to onnx model which is suitable for further conversion.
+
+->Run the following command in command prompt to convert the onnx model to xml and bin file using model optimizer.
+  mo --input_model onnx_phi2/model.onnx --output_dir phi2_openvino --data_type FP32.
+-> This converts the model into an xml and bin file of 32 bit.
+
+-> Using a 32 bit model for inference may become challenging for low end PC's.
+
+->To compress the model from 32 bit to INT8, use NNCF(Neural Network Compression Framework).
+
+->Run calibrate.py, It calibrates the model with some spectific data to compress the model with a verhy minimal accuracy loss.
+
+
+
+
 
 
 
