@@ -73,6 +73,10 @@ added_tokens.json
 
 ->This completes the implementation of AI assistant that can be useful for classroom based appliactions.
 
+->AI assistant.gif in the repository shows the workflow of the model.
+
+->A dedeicated presentation is attached to the repository for clear understanding of workflow. 
+
 
 
 
