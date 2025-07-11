@@ -15,7 +15,51 @@ Features:
 ->Accepts text queries and generates accurate answers.
 
 To implement the project,
-Make sure to download python(3.10+ recommended).
+->Make sure to download python(3.10+ recommended).
+
+create a python environment in a folder to store all the project's data.
+In bash:
+python -m venv openvino_env
+source openvino_env/bin/activate  # Linux
+openvino_env\Scripts\activate     # Windows
+
+->The above commands creates a python environment.
+
+->Download all the required tools from requirements.txt through bash inside the environment.
+
+-> Download Microsoft phi-2 model from hugghing face.
+huggingface link: https://huggingface.co/microsoft/phi-2/tree/main.
+
+->make sure to download the the following files for proper implementation of model:
+model-00001-of-00002.safetensors
+model-00002-of-00002.safetensors
+model.safetensors.index.json
+special_tokens_map.json
+tokenizer.json
+tokenizer_config.json
+vocab.json
+config.json
+generation_config.json
+merges.txt
+added_tokens.json
+
+->After downloading the model, fine tuning it to give outputs to educational queries is the next step.
+
+->Run tuning.py to fine tune the model.
+
+->For inferencing, the safetensors model that we tuned should be converted into CPU supported format with the help of Intel openvino toolkit.
+
+->In this process, the safetensors file gets converted to ONNX model which after gets converted to openvino format i.e, an XML and bin file of the models.
+
+->Run 
+
+
+
+
+
+
+
+
 
 
 
