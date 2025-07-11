@@ -14,6 +14,7 @@ Features:
 
 ->Accepts text queries and generates accurate answers.
 
+IMPLEMENTATION:
 To implement the project,
 ->Make sure to download python(3.10+ recommended).
 
