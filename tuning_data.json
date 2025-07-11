@@ -1,0 +1,122 @@
+[
+  {
+    "instruction": "What is Ohm's Law?",
+    "response": "Ohm's Law states that current is directly proportional to voltage and inversely proportional to resistance: V = I \u00d7 R."
+  },
+  {
+    "instruction": "Explain Newton's first law.",
+    "response": "Newton's first law states that an object remains at rest or in uniform motion unless acted upon by an external force."
+  },
+  {
+    "instruction": "Define photosynthesis.",
+    "response": "Photosynthesis is the process by which green plants use sunlight to synthesize food from carbon dioxide and water."
+  },
+  {
+    "instruction": "What is the formula for kinetic energy?",
+    "response": "The formula for kinetic energy is KE = 0.5 \u00d7 m \u00d7 v\u00b2, where m is mass and v is velocity."
+  },
+  {
+    "instruction": "Name the three states of matter.",
+    "response": "The three primary states of matter are solid, liquid, and gas."
+  },
+  {
+    "instruction": "What is the Pythagorean Theorem?",
+    "response": "In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: a\u00b2 + b\u00b2 = c\u00b2."
+  },
+  {
+    "instruction": "Who discovered gravity?",
+    "response": "Sir Isaac Newton discovered the concept of gravity."
+  },
+  {
+    "instruction": "Explain the term 'ecosystem'.",
+    "response": "An ecosystem is a community of interacting organisms and their physical environment."
+  },
+  {
+    "instruction": "What is the capital of India?",
+    "response": "The capital of India is New Delhi."
+  },
+  {
+    "instruction": "Define the term 'algorithm'.",
+    "response": "An algorithm is a step-by-step procedure to solve a problem or perform a task."
+  },
+  {
+    "instruction": "What is a variable in programming?",
+    "response": "A variable is a storage location in memory with a name that holds data which can change during program execution."
+  },
+  {
+    "instruction": "What is the boiling point of water?",
+    "response": "The boiling point of water is 100\u00b0C or 212\u00b0F at standard atmospheric pressure."
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "response": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "instruction": "Explain the law of conservation of energy.",
+    "response": "The law states that energy cannot be created or destroyed, only transformed from one form to another."
+  },
+  {
+    "instruction": "What is an electric current?",
+    "response": "Electric current is the flow of electric charge, typically measured in amperes."
+  },
+  {
+    "instruction": "Name the three branches of the Indian government.",
+    "response": "The three branches are the Legislature, the Executive, and the Judiciary."
+  },
+  {
+    "instruction": "What is an operating system?",
+    "response": "An operating system is software that manages computer hardware and software resources and provides services for programs."
+  },
+  {
+    "instruction": "Define inertia.",
+    "response": "Inertia is the tendency of an object to resist changes in its state of motion."
+  },
+  {
+    "instruction": "What is the unit of force?",
+    "response": "The SI unit of force is the Newton (N)."
+  },
+  {
+    "instruction": "Explain binary numbers.",
+    "response": "Binary numbers are made up of only two digits, 0 and 1, and are used in digital systems."
+  },
+  {
+    "instruction": "What is the function of the heart?",
+    "response": "The heart pumps blood throughout the body, supplying oxygen and nutrients."
+  },
+  {
+    "instruction": "Who wrote the Indian national anthem?",
+    "response": "Rabindranath Tagore wrote the Indian national anthem, 'Jana Gana Mana'."
+  },
+  {
+    "instruction": "What is the difference between RAM and ROM?",
+    "response": "RAM is temporary memory used for processing, while ROM is permanent memory used to store firmware."
+  },
+  {
+    "instruction": "Explain the concept of friction.",
+    "response": "Friction is a force that resists the motion of two surfaces sliding against each other."
+  },
+  {
+    "instruction": "What is a microprocessor?",
+    "response": "A microprocessor is an integrated circuit that performs the functions of a central processing unit (CPU)."
+  },
+  {
+    "instruction": "Define latitude and longitude.",
+    "response": "Latitude measures distance north or south of the Equator, while longitude measures distance east or west of the Prime Meridian."
+  },
+  {
+    "instruction": "What is a transistor?",
+    "response": "A transistor is a semiconductor device used to amplify or switch electronic signals and electrical power."
+  },
+  {
+    "instruction": "Who invented the light bulb?",
+    "response": "Thomas Edison is credited with inventing the practical electric light bulb."
+  },
+  {
+    "instruction": "What is an array in programming?",
+    "response": "An array is a collection of items stored at contiguous memory locations and accessed using indices."
+  },
+  {
+    "instruction": "What is a compiler?",
+    "response": "A compiler is a program that converts source code written in a high-level language into machine code."
+  }
+]
