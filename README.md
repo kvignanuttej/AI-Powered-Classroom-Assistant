@@ -63,7 +63,11 @@ added_tokens.json
 
 ->Run calibrate.py, It calibrates the model with some spectific data to compress the model with a verhy minimal accuracy loss.
 
+->INT8 can be further optimized to INT4 for better speeds and minimal loss(if needed).
 
+->
+
+Run 
 
 
 
