@@ -57,6 +57,7 @@ added_tokens.json
 
 ->Run the following command in command prompt to convert the onnx model to xml and bin file using model optimizer.
   mo --input_model onnx_phi2/model.onnx --output_dir phi2_openvino --data_type FP32.
+
 -> This converts the model into an xml and bin file of 32 bit.
 
 -> Using a 32 bit model for inference may become challenging for low end PC's.
