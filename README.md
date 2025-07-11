@@ -65,9 +65,13 @@ added_tokens.json
 
 ->INT8 can be further optimized to INT4 for better speeds and minimal loss(if needed).
 
-->
+->Run inference_engine.py to check if the model is working perfectly.
 
-Run 
+->After running the inference_engine.py successfully, Run app.py that launches UI for the built model.
+
+->app.py internally calls inference_engine.py for inferencing the model.
+
+->This completes the implementation of AI assistant that can be useful for classroom based appliactions.
 
 
 
