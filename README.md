@@ -78,7 +78,7 @@ added_tokens.json
 
 ->AI assistant.gif in the repository shows the workflow of the model.
 
-->A dedeicated presentation is attached to the repository for clear understanding of workflow. 
+->A dedicated presentation is attached to the repository for clear understanding of workflow. 
 
 
 
